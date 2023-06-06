@@ -272,7 +272,7 @@
             calcBox.ScrollBars = RichTextBoxScrollBars.None;
             calcBox.Size = new Size(307, 128);
             calcBox.TabIndex = 19;
-            calcBox.Text = "0";
+            calcBox.Text = "00";
             calcBox.UseWaitCursor = true;
             calcBox.ZoomFactor = 2F;
             calcBox.TextChanged += calcBox_TextChanged;
